@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yenahlee
-- 🌱 I’m currently a sophomore majoring in CS at UofT.
+- 🌱 I’m currently majoring in CS at UofT.
 - 📫 Please reach me by: yenah.lee27@gmail.com OR yenah.lee@mail.utoronto.ca
 
 <!---
